@@ -26,10 +26,15 @@
 #### සරල ක්‍රමය
 
 #### Telegrame @BotFather ගොස් /newbot ලෙස යවන්න
+
 #### පසුව බොට් සඳහා ඔබ කැමති නමක් දෙන්න.... [ ඔබ ඇතුළත් කරන නම + bot ] ලෙස දෙන්න
 #### ඔබට ලැබෙන Bot Token එක කොපි කරගන්න
 
 #### BOT_TOKEN ලබා ගත් පසු පහල බටනය ඔබලා Bot deploy කරන්න
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sisula/Cobra-Telegrame-Bot)
+
+<p align="center">
+  <img src = "https://telegra.ph/file/9de27f8e37371ec4b0b81.png" align="center" >
+</a>
 
 
