@@ -31,6 +31,7 @@
 #### ✅ වලංගු HEROKU_API_KEY ඇතුළත් කරන්න.
 #### ✅ Telegrame API_ID හෝ API_HASH අවශ්‍ය වන්නෙ නැත.
 #### ✅ BOT_TOKEN ලබා ගත් පසු පහල බටනය ඔබලා Bot deploy කරන්න
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sisula/Cobra-Telegrame-Bot)
 
 <p align="center">
