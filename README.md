@@ -19,12 +19,15 @@
    
    
 ### Support Group - https://t.me/cobrabot_tg
-# 🚀COBRA TELE BOT පහසුකම් ලැයිස්තුව
+### 🚀COBRA TELE BOT පහසුකම් ලැයිස්තුව
 
 <a href="https://github.com/sisula/Cobra-Telegrame-Bot/blob/master/language/README.md">
     <img src="https://img.shields.io/badge/Click%20here-purple&style=plastic" height="50">
   
   </a>
+  ```
+  
+  ```
 
 ###============================ ⚙️ස්ථාපනය කිරීම!...⚙️ =================================
 
