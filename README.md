@@ -21,7 +21,7 @@
 ### Support Group - https://t.me/cobrabot_tg
 
 
-###================================ ⚙️ස්ථාපනය කිරීම!...⚙️ =====================================
+###============================ ⚙️ස්ථාපනය කිරීම!...⚙️ =================================
 
 #### ✅ Telegrame @BotFather ගොස් /newbot ලෙස යවන්න
 #### ✅ පසුව බොට් සඳහා ඔබ කැමති නමක් දෙන්න.... [ ඔබ ඇතුළත් කරන නම + bot ] ලෙස දෙන්න
@@ -36,13 +36,13 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sisula/Cobra-Telegrame-Bot)
 
 <p align="center">
-  <img src = "https://telegra.ph/file/9de27f8e37371ec4b0b81.png" align="center" >
+  <img src = "https://telegra.ph/file/9de27f8e37371ec4b0b81.png" align="center" height="50" >
 </a>
 <p align="center">
-  <img src = "https://telegra.ph/file/af35878c8a02fe43c12a8.png" align="center" >
+  <img src = "https://telegra.ph/file/af35878c8a02fe43c12a8.png" align="center" height="50" >
 </a>
 <p align="center">
-  <img src = "https://telegra.ph/file/b627fa40dcba81289c965.png" align="center" >
+  <img src = "https://telegra.ph/file/b627fa40dcba81289c965.png" align="center" height="50" >
 </a>
 
 
