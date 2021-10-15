@@ -36,7 +36,7 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sisula/Cobra-Telegrame-Bot)
 
 <p align="center">
-  <img src = "https://telegra.ph/file/9de27f8e37371ec4b0b81.png" align="center" height="500" >
+  <img src = "https://telegra.ph/file/9de27f8e37371ec4b0b81.png" align="center" height="300" >
 </a>
 <p align="center">
   <img src = "https://telegra.ph/file/af35878c8a02fe43c12a8.png" align="center" height="500" >
