@@ -21,7 +21,7 @@
 ### Support Group - https://t.me/cobrabot_tg
 ### 🚀COBRA TELE BOT පහසුකම් ලැයිස්තුව
 
-<a href="t.me/sisulasisulabot">
+<a href="https://t.me/sisulasisulabot">
     <img src="https://img.shields.io/badge/Click%20here-purple&style=plastic" height="30">
   
   </a>
