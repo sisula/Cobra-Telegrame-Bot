@@ -13,7 +13,7 @@
 <p align="center">
     Project of  COBRA TELE BOT යනු ලංකාවෙ පළමු node.js telegrame Bot වේ..🇱🇰
     <br> 
-        <a href="https://Wa.me/+94766293744">Sisula Welgamage Whatsapp </a> |
+        | <a href="https://Wa.me/+94766293744">Sisula Welgamage Whatsapp </a> |
    </a> 
    </br>      
    
