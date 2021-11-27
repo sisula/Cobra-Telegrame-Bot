@@ -28,7 +28,7 @@
 
 # ======== ⚙️ස්ථාපනය කිරීම!...⚙️ =========
 
-<p> ✅ Telegrame @BotFather ගොස් /newbot ලෙස යවන්න<br>
+<p><b> ✅ Telegrame @BotFather ගොස් /newbot ලෙස යවන්න<br>
  ✅ පසුව බොට් සඳහා ඔබ කැමති නමක් දෙන්න.... [ ඔබ ඇතුළත් කරන නමbot ] ලෙස දෙන්න<br>
  ✅ ඔබට ලැබෙන Bot Token එක කොපි කරගන්න<br>
  ✅ ALIVE_lOGO සඳහා ඔනෑම මාධ්‍යකට උඩුගත කරන ලද ඡායාරූපයක ලින්කුවක් ගන්න.<br>
@@ -36,7 +36,7 @@
  ✅ වලංගු HEROKU_API_KEY ඇතුළත් කරන්න.<br>
  ✅ Telegrame API_ID හෝ API_HASH අවශ්‍ය වන්නෙ නැත.<br>
  ✅ BOT_TOKEN ලබා ගත් පසු පහල බටනය ඔබලා Bot deploy කරන්න<br>
-  </p>
+  </p></b>
 ####
 ####
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sisula/Cobra-Telegrame-Bot)
