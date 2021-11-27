@@ -1,24 +1,5 @@
 <html>
-    <script type ="text/javascript">
-      function displayNextImage() {
-          x = (x === images.length - 1) ? 0 : x + 1;
-          document.getElementById("img").style.backgroundImage = "url"+(images[x]);
-      }
-      function displayPreviousImage() {
-          x = (x <= 0) ? images.length - 1 : x - 1;
-          document.getElementById("img").style.backgroundImage = "url"+(images[x]);
-      }
-      function startTimer() {
-          setInterval(displayNextImage, 3000);
-      }
-      var images = [], x = -1;
-      images[0] ='https://telegra.ph/file/973d21ad6af7822fd4b87.png';
-      images[1] ='../images/xatzigiannhs.jpg';
-      images[2] ='https://telegra.ph/file/973d21ad6af7822fd4b87.png';
-      images[3] ='../images/selena_gomez.jpg';
-      images[4] ='../images/the_weeknd.jpg';
-      images[5] ='../images/drake.jpg';
-  </script>
+    
 <p align="center">
   <img src = "https://telegra.ph/file/973d21ad6af7822fd4b87.png" align="center" >
  <h1 align="center"><b> ℂ𝕆𝔹ℝ𝔸 𝕋𝔼𝕃𝔼𝔾ℝ𝔸𝕄 𝔹𝕆𝕋 </b></h1>
